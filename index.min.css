@@ -1,0 +1,35 @@
+﻿@charset "UTF-8";
+.qh-div{
+	width: 5rem;
+	height: .8rem;
+	margin:.5rem auto;
+	
+	overflow: hidden;
+	
+}
+
+.qh-div p{
+	width: 62%;
+	color: black;
+	float: left;
+	font-size: .22rem;
+	line-height: .3rem;
+	text-align: center;
+	padding: .08rem 0;
+	border:.02rem solid blue;
+	border-top-left-radius: .5rem;
+	border-bottom-left-radius: .5rem;
+}
+.qh-div buttom{
+	color: green;
+	border:none;
+	width: 35%;
+	float: left;
+	font-size: .22rem;
+	line-height: .24rem;
+	text-align: center;
+	background-color: blue;
+	padding: .28rem 0;
+	border-top-right-radius: .5rem;
+	border-bottom-right-radius: .5rem;
+}
